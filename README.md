@@ -64,15 +64,6 @@ Interactive alarm clock built with pure JavaScript and clean UI.
 
 ➡️ **More projects:** [https://github.com/sanjay110798](https://github.com/sanjay110798)
 
----
-
-## 📊 GitHub Stats
-
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay110798\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay110798\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
