@@ -11,7 +11,7 @@ I am a passionate **Web Developer with 6+ years of experience** building scalabl
 * 🔭 Working on **modern full-stack & 3D web apps**
 * 🌱 Learning **advanced Next.js, cloud & performance optimization**
 * 💡 Love building **interactive UI & real-world solutions**
-* 📫 Email: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Email: **[your-email@example.com](mailto:sanjayroy11071998@gmail.com)**
 * 🌐 Portfolio: **[https://sanjay-roy.vercel.app](https://sanjay-roy.vercel.app)**
 
 ---
@@ -58,22 +58,6 @@ I am a passionate **Web Developer with 6+ years of experience** building scalabl
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-### 🏥 Healthcare Web App
-
-Modern healthcare management system with responsive UI and optimized performance.
-
-### 🔳 QR Code Generator
-
-Generate and download QR codes instantly using JavaScript.
-
-### ⏰ Alarm Clock App
-
-Interactive alarm clock built with pure JavaScript and clean UI.
-
-➡️ **More projects:** [https://github.com/sanjay110798](https://github.com/sanjay110798)
 
 ---
 
