@@ -11,7 +11,7 @@ I am a passionate **Web Developer with 6+ years of experience** building scalabl
 * 🔭 Working on **modern full-stack & 3D web apps**
 * 🌱 Learning **advanced Next.js, cloud & performance optimization**
 * 💡 Love building **interactive UI & real-world solutions**
-* 📫 Email: **[your-email@example.com](mailto:sanjayroy11071998@gmail.com)**
+* 📫 Email: **[sanjayroy11071998@gmail.com](mailto:sanjayroy11071998@gmail.com)**
 * 🌐 Portfolio: **[https://sanjay-roy.vercel.app](https://sanjay-roy.vercel.app)**
 
 ---
