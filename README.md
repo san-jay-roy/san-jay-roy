@@ -64,7 +64,7 @@ I am a passionate **Web Developer with 6+ years of experience** building scalabl
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/sanjay-roy-576ba5247/](https://www.linkedin.com/in/sanjay-roy-576ba5247/)
-* 🧑‍💻 GitHub: [https://github.com/sanjay110798](https://github.com/sanjay110798)
+* 🧑‍💻 GitHub: [https://github.com/san-jay-roy](https://github.com/san-jay-roy)
 * 🌍 Portfolio: [https://sanjay-roy.vercel.app](https://sanjay-roy.vercel.app)
 
 ---
